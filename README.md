@@ -1,6 +1,6 @@
 ## Hi! :wave:
 
-My name is Pham Le Ngoc Son. Currently, I'm studying Computer Science at Ho Chi Minh University of Technology.
+My name is Pham Le Ngoc Son. Currently, I'm studying Master in Computer Science at Bach Khoa University, and I also graduated Bachelor of Electrical and Electronic Engineering at Bach Khoa University.
 
 **Followers:** [About HCMUT](https://www.hcmut.edu.vn/) • [HCMUT](https://www.hcmut.edu.vn/)
 
