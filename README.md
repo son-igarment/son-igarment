@@ -36,5 +36,5 @@ I'm currently doing research related to Deep Learning and Data Science. I'm also
 - Familiar with NLP
 
 ### 5. Contacts me 📬
-- Contact me via email: son.phamlengoc@gmail.com
-- Phone: 0334229371
+🌎  Contact me via email: son.phamlengoc@gmail.com
+🌎  Phone: 0334229371
