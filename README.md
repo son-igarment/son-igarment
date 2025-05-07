@@ -31,3 +31,10 @@ I'm currently doing research related to Deep Learning and Data Science. I'm also
 ### 4. Experience 🌟
 - **Programming languages**: C, C++, Java, Python, Javascript, Haskell, Verilog, SystemVerilog, VHDL, MATLAB, TCL and Bash Shell
 - Ability to build basic websites
+- Algorithms related to general AI
+- Data Mining techniques and computations
+- Familiar with NLP
+
+### 5. Contacts me 📬
+- Contact me via email: son.phamlengoc@gmail.com
+- Phone: 0334229371
