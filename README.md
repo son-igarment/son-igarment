@@ -29,5 +29,5 @@ I'm currently doing research related to Deep Learning and Data Science. I'm also
 ---
 
 ### 4. Experience 🌟
-- **Programming languages**: C, C++, Java, Python, Javascript, Haskell
+- **Programming languages**: C, C++, Java, Python, Javascript, Haskell, Verilog, SystemVerilog, VHDL, MATLAB, TCL and Bash Shell
 - Ability to build basic websites
