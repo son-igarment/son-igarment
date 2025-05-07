@@ -1,6 +1,6 @@
 ## Hi! :wave:
 
-My name is Nhat Khang (Christ). Currently, I'm studying Computer Science at Ho Chi Minh University of Technology.
+My name is Pham Le Ngoc Son. Currently, I'm studying Computer Science at Ho Chi Minh University of Technology.
 
 **Followers:** [About HCMUT](https://www.hcmut.edu.vn/) • [HCMUT](https://www.hcmut.edu.vn/)
 
