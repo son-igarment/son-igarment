@@ -14,7 +14,7 @@ Hello! I'm **Pham Le Ngoc Son** (_Andrew_), a 23-year-old **Computer Science** g
 
 ## 🎯 About me
 
-I’m a driven researcher and developer immersed in **Multimodal Learning** and **Large Langugage Models**, with a passion for crafting innovative **applications**. My curiosity fuels my exploration of cutting-edge technologies, and I thrive on transforming ideas into impactful solutions. As I prepare for my PhD at MBZUAI, I’m excited to contribute to the global AI research community.
+I’m a driven researcher and developer immersed in **Multimodal Learning** and **Large Langugage Models**, with a passion for crafting innovative **applications**. My curiosity fuels my exploration of cutting-edge technologies, and I thrive on transforming ideas into impactful solutions. As I prepare for my PhD at HCMUT, I’m excited to contribute to the global AI research community.
 
 ---
 
