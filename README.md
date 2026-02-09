@@ -56,17 +56,17 @@ My academic and research pursuits focus on:
 ## 📬 Let’s connect!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/khangchris/" target="_blank">
+  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-l%C3%AA-ng%E1%BB%8Dc-s%C6%A1n-8b09a21a8/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/Christeriousity/" target="_blank">
+  <a href="https://www.facebook.com/son.phamlengoc/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="nhatkhangdtp@gmail.com" target="_blank">
+  <a href="son.phamlengoc@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div> 
 
 ---
 
-> As I'm on my PhD journey at MBZUAI, I’m excited to contribute to groundbreaking research and innovative projects. Connect with me for collaborations, discussions, or a chat about the limitless possibilities of technology!
+> As I'm on my MASTER journey at HCMUT, I’m excited to contribute to groundbreaking research and innovative projects. Connect with me for collaborations, discussions, or a chat about the limitless possibilities of technology!
