@@ -1,40 +1,74 @@
-## Hi! :wave:
+# 🌟 Welcome to my home 🌟
 
-My name is Pham Le Ngoc Son. Currently, I'm studying Master in Computer Science at Bach Khoa University, and I also graduated Bachelor of Electrical and Electronic Engineering at Bach Khoa University.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatkhangcs&label=Profile%20views&color=0e75b6&style=flat" alt="nhatkhangcs" /> </p>
 
-**Followers:** [About HCMUT](https://www.hcmut.edu.vn/) • [HCMUT](https://www.hcmut.edu.vn/)
+Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate from **Ho Chi Minh City University of Technology (HCMUT-VNU)**, where I completed my degree in an accelerated 3.5 years. I’m thrilled to be an upcoming **PhD student** at **MBZUAI** (Mohamed bin Zayed University of Artificial Intelligence), pursuing advanced research without a master’s degree. Below is a vibrant showcase of my academic journey, skills, interests, and ways to connect with me. 🚀
 
----
+🔗 **Follow me on GitHub**: [nhatkhangcs](https://github.com/nhatkhangcs?tab=followers)  
+🔗 **About HCMUT**: [Learn More](https://oisp.hcmut.edu.vn/en/)  
+🔗 **About MBZUAI**: [Learn More](https://mbzuai.ac.ae/)
 
-### 1. Intro 😄
-I'm currently doing research related to Deep Learning and Data Science. I'm also a fan of developing websites, applications, and more.
-
----
-
-### 2. Hobbies 💧
-- **Chess** ♟️
-- **Cooking** 🍳
-- **Reading research papers** 📜
-- **Generating new ideas for team collaboration and enhancing accuracy**
-- **Listening to EDM, trance for working (also Japanese and Chinese music for relaxing and meditating)**
-- **Data structures and algorithms (especially for AI and Data Mining)**
+<img src="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake.svg" alt="Snake animation" />
 
 ---
 
-### 3. Research Fields 🔥
-- Natural Language Processing (NLP)
-- Data Science
-- Data Mining
+## 🎯 About me
+
+I’m a driven researcher and developer immersed in **Multimodal Learning** and **Large Langugage Models**, with a passion for crafting innovative **applications**. My curiosity fuels my exploration of cutting-edge technologies, and I thrive on transforming ideas into impactful solutions. As I prepare for my PhD at MBZUAI, I’m excited to contribute to the global AI research community.
 
 ---
 
-### 4. Experience 🌟
-- **Programming languages**: C, C++, Java, Python, Javascript, Haskell, Verilog, SystemVerilog, VHDL, MATLAB, TCL and Bash Shell
-- Ability to build basic websites
-- Algorithms related to general AI
-- Data Mining techniques and computations
-- Familiar with NLP
+## 🧩 Hobbies & Interests
 
-### 5. Contacts me 📬
-🌎  Contact me via email: son.phamlengoc@gmail.com
-🌎  Phone: 0334229371
+- ♟️ **Chess**: Outsmarting opponents with strategic brilliance.  
+- 🍴 **Cooking**: Crafting dishes that delight the senses.  
+- 📖 **Research Papers**: Devouring the latest AI breakthroughs.  
+- 💡 **Ideation**: Dreaming up game-changing solutions for teams.  
+- 🎧 **Music**: Coding to EDM & trance, chilling with Japanese & Chinese tunes.  
+- 🧩 **Algorithms**: Solving complex AI and Data Mining puzzles.  
+
+---
+
+## 🔬 Research fields
+
+My academic and research pursuits focus on:  
+- **Natural Language Processing (NLP)**: Advancing human-AI language interactions.
+- **Multimodal Learning**: Learn about how various datatypes interact with each other in AI systems. 
+- **Data Science**: Turning data into actionable insights. 
+
+---
+
+## 🛠️ Skills & Experiences
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nhatkhangcs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatkhangcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </div>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatkhangcs&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📬 Let’s connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/khangchris/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/Christeriousity/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="nhatkhangdtp@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div> 
+
+---
+
+> As I'm on my PhD journey at MBZUAI, I’m excited to contribute to groundbreaking research and innovative projects. Connect with me for collaborations, discussions, or a chat about the limitless possibilities of technology!
