@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatkhangcs&label=Profile%20views&color=0e75b6&style=flat" alt="nhatkhangcs" /> </p>
 
-Hello! I'm **Nhat Khang** (_Chris_), a 21-year-old **Computer Science** graduate from **Ho Chi Minh City University of Technology (HCMUT-VNU)**, where I completed my degree in an accelerated 3.5 years. I’m thrilled to be an upcoming **PhD student** at **MBZUAI** (Mohamed bin Zayed University of Artificial Intelligence), pursuing advanced research without a master’s degree. Below is a vibrant showcase of my academic journey, skills, interests, and ways to connect with me. 🚀
+Hello! I'm **Pham Le Ngoc Son** (_Andrew_), a 23-year-old **Computer Science** graduate from **Ho Chi Minh City University of Technology (HCMUT-VNU)**, where I completed my degree in an accelerated 4 years. I’m thrilled to be an upcoming **Master student** at **HCMUT** (Bach Khoa HCM ). Below is a vibrant showcase of my academic journey, skills, interests, and ways to connect with me. 🚀
 
-🔗 **Follow me on GitHub**: [nhatkhangcs](https://github.com/nhatkhangcs?tab=followers)  
+🔗 **Follow me on GitHub**: [Pham Le Ngoc Son](https://github.com/son-igarment)  
 🔗 **About HCMUT**: [Learn More](https://oisp.hcmut.edu.vn/en/)  
-🔗 **About MBZUAI**: [Learn More](https://mbzuai.ac.ae/)
+
 
 <img src="https://raw.githubusercontent.com/nhatkhangcs/nhatkhangcs/output/snake.svg" alt="Snake animation" />
 
